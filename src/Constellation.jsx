@@ -33,7 +33,7 @@ const ConstellationGame = () => {
         { question: "√64 = ?", answer: "8" },
         { question: "25 ÷ 5 + 10 = ?", answer: "15" }
       ],
-      message: "Venus is the planet of love, and you are my universe"
+      message: "Venus is the planet of love, and you are my universe of love"
     },
     {
       id: 3,
@@ -441,7 +441,7 @@ const ConstellationGame = () => {
       </svg>
 
       <div className="game-title">
-        <h1>Constellation of Love</h1>
+        <h1>Constellation </h1>
         <p>Explore the planets and solve the mysteries of the universe</p>
       </div>
 
