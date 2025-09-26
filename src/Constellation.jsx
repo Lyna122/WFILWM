@@ -498,10 +498,11 @@ const ConstellationGame = () => {
               <p>You are the first one i had such affinity for, the first one i felt comfortable with, the first one i trusted with my heart, the first one i shared my dreams and fears with, the first one i laughed and cried with, the first one i felt alive with</p>
               
               <p>and I hope to be the last one you will ever need because you complete me in every way possible</p>
-              
+              <p>You are still my man and for you I will forever wait</p>
               <p>So tell me would you fall in love with me again?</p>
               
               <h3 className="special-message">You are what I saved my virginity for :)</h3>
+              
             </div>
             
             <p className="love-declaration">I LOVE YOU! ❤️</p>
