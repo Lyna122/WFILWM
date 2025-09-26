@@ -33,7 +33,7 @@ const ConstellationGame = () => {
         { question: "√64 = ?", answer: "8" },
         { question: "25 ÷ 5 + 10 = ?", answer: "15" }
       ],
-      message: "Venus is the planet of love, and you are my universe of love 💕"
+      message: "Venus is the planet of love, and you are my universe"
     },
     {
       id: 3,
